@@ -1,8 +1,15 @@
-<h1 style="text-align:center;">Semantic Analyzer for LCD Language</h1>
+<h1 align="center">
+<div style="background-color: white; display: inline-block; padding: 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/MIT_GNU_Scheme_Logo.svg/1200px-MIT_GNU_Scheme_Logo.svg.png" width="120" alt="MIT/GNU Scheme Logo"/>
+</div>
 
-![MIT Scheme](https://img.shields.io/badge/MIT-Scheme-red.svg)
-![Status](https://img.shields.io/badge/status-completed-success.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
+  Semantic Analyzer for LCD Language in Scheme
+</h1>
+
+[![PL](https://img.shields.io/badge/MIT%2FGNU_Scheme-blue?style=for-the-badge)](https://www.gnu.org/software/mit-scheme/)
+![Status](https://img.shields.io/badge/status-completed-green?style=for-the-badge)
+[![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](https://github.com/Kj0ric/lcd-semantic-analyzer/blob/main/LICENSE)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -227,8 +234,7 @@ Outputs:
 
 ## Setup and Usage
 
-### Prerequisites
-
+### Prerequisites
 - MIT/GNU Scheme (version 11.2 or higher)
 - Basic understanding of Scheme/Lisp programming
 - Git (optional, for cloning the repository)
