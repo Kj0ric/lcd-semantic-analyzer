@@ -218,11 +218,11 @@ Outputs:
 
 1 ]=> (check-identifier-usage example-program)
 
-;Value: ((input3) (node3) (output2 node2))
+;Value: ((input3) () (output2 node2))
 
 1 ]=> (check-inputs-in-evaluation example-program)
 
-;Value: ((circuit3) (circuit1))
+;Value: ((circuit1 circuit2 circuit3 circuit4) (circuit1))
 
 1 ]=> (check-incorrect-assignments example-program)
 
