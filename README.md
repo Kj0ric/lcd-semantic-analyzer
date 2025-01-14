@@ -340,5 +340,5 @@ git commit -am 'Add new feature'
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
-- This project was developed as part of my Programming Languages course
+- This project was developed as part of the Programming Languages course at Sabanci University. Special thanks to the course instructor Hüsnü Yenigün and teaching assistants for their guidance and support.
 - Thanks to the MIT/GNU Scheme development team for their excellent Scheme implementation
