@@ -12,6 +12,9 @@
 
 </div>
 
+This project implements a semantic analyzer for the LCD (Logic Circuit Design) language using MIT/GNU Scheme. It serves as a robust tool for validating LCD programs by enforcing semantic rules that ensure proper declaration and usage of circuit components. The analyzer is particularly useful in educational contexts for teaching programming language design and implementation, as well as in practical applications for verifying logic circuit descriptions.
+
+
 ## Table of Contents
 - [Overview](#overview)
 - [About the LCD Language](#about-the-lcd-language)
@@ -25,10 +28,6 @@
   - [Running the Project](#running-the-project)
 - [Contributing](#contributing)
 - [License](#license)
-
-## Overview
-This project implements a semantic analyzer for the LCD (Logic Circuit Design) language using MIT/GNU Scheme. It serves as a robust tool for validating LCD programs by enforcing semantic rules that ensure proper declaration and usage of circuit components. The analyzer is particularly useful in educational contexts for teaching programming language design and implementation, as well as in practical applications for verifying logic circuit descriptions.
-
 
 ## About the LCD Language
 The LCD language facilitates logic circuit design through three main sections:
