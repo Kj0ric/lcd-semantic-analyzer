@@ -336,7 +336,7 @@ git commit -am 'Add new feature'
 - Update the README if necessary
 
 ## License 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
 
 ## Acknowledgments
 - This project was developed as part of the Programming Languages course at Sabanci University. Special thanks to the course instructor Hüsnü Yenigün and teaching assistants for their guidance and support.
