@@ -27,6 +27,7 @@ This project implements a semantic analyzer for the LCD (Logic Circuit Design) l
   - [Running the Project](#running-the-project)
 - [Contributing](#contributing)
 - [License](#license)
+- [Acknowledgements](#acknowledgments)
 
 ## About the LCD Language
 The LCD language facilitates logic circuit design through three main sections:
