@@ -16,7 +16,6 @@ This project implements a semantic analyzer for the LCD (Logic Circuit Design) l
 
 
 ## Table of Contents
-- [Overview](#overview)
 - [About the LCD Language](#about-the-lcd-language)
 - [Grammar of the LCD Language](#grammar-of-the-lcd-language)
 - [Implementation](#implementation)
